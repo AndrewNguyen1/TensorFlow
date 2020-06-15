@@ -1,6 +1,6 @@
-# Test Change to README.md
+# Test Changes to README.md
 
-Lorum ipsum
+Testing Git functionality, including add, push, and commit functions, as part of self-guided lab activity.
 
 * 15 June 2020
 
